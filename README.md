@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Liviru Jayawardhana!<br><br>
-🎓 I'm a software engineering undergrad at University of Westminster with a passion for building innovative solutions and exploring new technologies.<br><br>💻 Proficient in Java, JavaScript and React, I enjoy tackling challenging problems and crafting elegant solutions.<br><br>🌱 Always eager to learn and grow, I'm open to opportunities for collaboration and continuous improvement.<br><br>🚀 Let's connect and build something amazing together!
+🎓 I'm a software engineering undergrad at University of Westminster with a passion for building innovative solutions and exploring new technologies.<br><br>💻 Proficient in Java, JavaScript and React, I enjoy tackling challenging problems and crafting elegant solutions.<br><br>🌱 Always eager to learn and grow, I'm open to opportunities for collaboration and continuous improvement.<br><br>🚀 Let's connect and build something amazing together!<br><br>
 <img src= "https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 
